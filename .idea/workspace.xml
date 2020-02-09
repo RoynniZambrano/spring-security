@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1dd7be-bfa1-48e7-a15f-ca89eed57518" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-javabrains/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-javabrains/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-javabrains/src/main/java/com/royforthewin/springsecurityjavabrains/configuration/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-javabrains/src/main/java/com/royforthewin/springsecurityjavabrains/configuration/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-javabrains/src/main/java/com/royforthewin/springsecurityjavabrains/controller/HomeResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-javabrains/src/main/java/com/royforthewin/springsecurityjavabrains/controller/HomeResource.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
