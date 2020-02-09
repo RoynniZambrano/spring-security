@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1dd7be-bfa1-48e7-a15f-ca89eed57518" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-javabrains/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-javabrains/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-javabrains/src/main/java/com/royforthewin/springsecurityjavabrains/configuration/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-javabrains/src/main/java/com/royforthewin/springsecurityjavabrains/configuration/SecurityConfiguration.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,10 +31,19 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-security-javabrains/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-security-jpa/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.springsecurityjpa" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springsecurityjpa.configuration" />
+      <recent name="com.example.springsecurityjpa.controller" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SpringSecurityJpaApplication">
     <configuration name="SpringSecurityJavabrainsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.royforthewin.springsecurityjavabrains.SpringSecurityJavabrainsApplication" />
       <module name="spring-security-javabrains" />
@@ -60,6 +71,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringSecurityJpaApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springsecurityjpa.SpringSecurityJpaApplication" />
+      <module name="spring-security-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.royforthewin.springsecurityjavabrains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringSecurityJpaApplication" />
+      <item itemvalue="Application.SpringSecurityJavabrainsApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SpringSecurityJavabrainsApplication" />

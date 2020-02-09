@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-security-javabrains/spring-security-javabrains.iml" filepath="$PROJECT_DIR$/spring-security-javabrains/spring-security-javabrains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-jpa/spring-security-jpa.iml" filepath="$PROJECT_DIR$/spring-security-jpa/spring-security-jpa.iml" />
     </modules>
   </component>
 </project>
