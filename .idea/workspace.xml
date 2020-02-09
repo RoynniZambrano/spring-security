@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1dd7be-bfa1-48e7-a15f-ca89eed57518" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/SpringSecurityJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/SpringSecurityJpaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/configuration/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/configuration/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/helpers/MyUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/model/MyUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/services/MyUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/services/MyUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +26,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1XSQnSWd0AwrDMvBtnLqpIEhMaH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
