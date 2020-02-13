@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-security-javabrains/spring-security-javabrains.iml" filepath="$PROJECT_DIR$/spring-security-javabrains/spring-security-javabrains.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-jpa/spring-security-jpa.iml" filepath="$PROJECT_DIR$/spring-security-jpa/spring-security-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-ldap/spring-security-ldap.iml" filepath="$PROJECT_DIR$/spring-security-ldap/spring-security-ldap.iml" />
     </modules>
   </component>
 </project>

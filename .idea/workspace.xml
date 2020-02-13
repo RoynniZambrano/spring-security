@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1dd7be-bfa1-48e7-a15f-ca89eed57518" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/SpringSecurityJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/SpringSecurityJpaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/configuration/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/configuration/SecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/helpers/MyUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/model/MyUserDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/services/MyUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jpa/src/main/java/com/example/springsecurityjpa/services/MyUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jpa/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,18 +38,25 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-security-jpa/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-security-ldap/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.royforthewin.springsecurityldap" />
       <recent name="com.example.springsecurityjpa" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.royforthewin.springsecurityldap.configuration" />
+      <recent name="com.royforthewin.springsecurityldap.controller" />
+      <recent name="controller" />
       <recent name="com.example.springsecurityjpa.configuration" />
       <recent name="com.example.springsecurityjpa.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\spring-security\spring-security-ldap\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -67,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpringSecurityJpaApplication">
+  <component name="RunManager" selected="Application.SpringSecurityLdapApplication">
     <configuration name="SpringSecurityJavabrainsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.royforthewin.springsecurityjavabrains.SpringSecurityJavabrainsApplication" />
       <module name="spring-security-javabrains" />
@@ -94,12 +98,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringSecurityLdapApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.royforthewin.springsecurityldap.SpringSecurityLdapApplication" />
+      <module name="spring-security-ldap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.royforthewin.springsecurityldap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.SpringSecurityJpaApplication" />
       <item itemvalue="Application.SpringSecurityJavabrainsApplication" />
+      <item itemvalue="Application.SpringSecurityLdapApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringSecurityLdapApplication" />
         <item itemvalue="Application.SpringSecurityJavabrainsApplication" />
       </list>
     </recent_temporary>
@@ -125,7 +144,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
